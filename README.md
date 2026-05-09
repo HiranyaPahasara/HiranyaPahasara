@@ -13,10 +13,7 @@
     height="35"
   />
 </p>
-
-
 <h2 align="center">👨‍💻 About Me</h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=F7D046&center=true&vCenter=true&width=600&lines=Android+Developer;UI%2FUX+Designer;Kotlin+Learner;Passionate+About+Technology" />
 </p>
