@@ -1,56 +1,97 @@
-preview
-<h1 align="center">Hi 👋, I'm Hiranya Pahasara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,30&text=Hi%20👋,%20I'm%20Hiranya%20Pahasara&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&textBg=false"/>
+</div>
+
+<div align="center" style="overflow:hidden; height:120px;">
+  <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="100%" />
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hiranyapahasara&label=Profile%20views&color=0e75b6&style=flat" alt="hiranyapahasara" /> </p>
 
 
-- 🔭 I’m currently working on **Create a UI Design and Mobile Application**
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 🌱 I’m currently learning **Java , Kotlin**
-
-- 💬 Ask me about **Kotlin**
-
-- 📫 How to reach me **hiranyapahasara20@gmail.com**
-
-- ⚡ Fun fact **Just Call Me Pahasr...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hiranya pahasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiranya pahasara" height="30" width="40" /></a>
-<a href="https://instagram.com/_pahasr._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pahasr._" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=F7D046&center=true&vCenter=true&width=600&lines=Android+Developer;UI%2FUX+Designer;Kotlin+Learner;Passionate+About+Technology" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<br>
+<div align="left">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/hiranyapahasara"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hiranyapahasara" /></a></p><br><br>
+- 🌟 I’m currently working on  
+  **Create a UI Design and Mobile Application**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiranyapahasara&show_icons=true&locale=en&layout=compact" alt="hiranyapahasara" /></p>
+- 🌱 I’m currently learning  
+  **Java & Kotlin**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiranyapahasara&show_icons=true&locale=en" alt="hiranyapahasara" /></p>
+- 💬 Ask me about  
+  **Kotlin**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiranyapahasara&" alt="hiranyapahasara" /></p>
+- 📫 Reach me at  
+  **hiranyapahasara20@gmail.com**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiranyapahasara/hiranyapahasara/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiranyapahasara/hiranyapahasara/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hiranyapahasara/hiranyapahasara/pacman-output/pacman-contribution-graph.svg">
-</picture>
+- ⚡ Fun Fact  
+  **Just Call Me Pahasr...**
+  
+- How Can you Help me
+  <p align="left"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img    src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+  
+
+</div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Hiranya%20Pahasara%20%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hiranya-pahasara" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  
+  <a href="https://instagram.com/_pahasr._" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">⚒️ Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,java,kotlin,react,spring,mongodb,mysql,git,figma,postman,vscode" />
+</p><br><br>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+</picture><br><br>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hiranyapahasara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7D046&icon_color=F7D046&text_color=FFFFFF" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiranyapahasara&theme=tokyonight&hide_border=true&background=0D1117&ring=F7D046&fire=F7D046&currStreakLabel=F7D046" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hiranyapahasara&bg_color=0D1117&color=F7D046&line=F7D046&point=FFFFFF&hide_border=true" />
+</p>
+
+<br>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hiranyapahasara&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+</p>
+
+<br>
+
 
 
 
