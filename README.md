@@ -82,8 +82,15 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiranyapahasara&theme=tokyonight&hide_border=true&background=0D1117&ring=F7D046&fire=F7D046&currStreakLabel=F7D046" />
 </p>
 
+<h2 align="center">📈 Contribution Activity</h2>
+
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hiranyapahasara&bg_color=0D1117&color=F7D046&line=F7D046&point=FFFFFF&hide_border=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hiranyapahasara&bg_color=0D1117&color=F7D046&line=FFD700&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&color=F7D046&center=true&vCenter=true&width=500&lines=Loading+Contribution+Data...;Tracking+Daily+Commits...;Building+Projects+Everyday+🚀" />
+</p>
 </p>
 
 <br>
@@ -95,6 +102,20 @@
 </p>
 
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
