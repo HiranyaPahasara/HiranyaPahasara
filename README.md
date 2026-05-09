@@ -102,6 +102,9 @@
 </p>
 
 <br>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=24,30,2&animation=twinkling"/>
+</div>
 
 
 
