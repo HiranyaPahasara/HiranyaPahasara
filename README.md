@@ -73,8 +73,6 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hiranyapahasara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7D046&icon_color=F7D046&text_color=FFFFFF" />
-  
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiranyapahasara&theme=tokyonight&hide_border=true&background=0D1117&ring=F7D046&fire=F7D046&currStreakLabel=F7D046" />
 </p>
 
