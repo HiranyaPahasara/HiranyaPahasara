@@ -4,9 +4,15 @@
 
 <div align="center" style="overflow:hidden; height:120px;">
   <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="100%" />
-</div>
+</div><br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hiranyapahasara&label=Profile%20views&color=0e75b6&style=flat" alt="hiranyapahasara" /> </p>
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=hiranyapahasara&label=Profile%20Views&color=F7D046&style=for-the-badge" 
+    alt="hiranyapahasara"
+    height="35"
+  />
+</p>
 
 
 <h2 align="center">👨‍💻 About Me</h2>
